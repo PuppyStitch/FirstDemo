@@ -29,6 +29,10 @@ public class DemoService extends Service {
         Log.d(TAG, "onCreate");
     }
 
+    public void test() {
+//        just for test
+    }
+
     @Nullable
     @Override
     public IBinder onBind(Intent intent) {
