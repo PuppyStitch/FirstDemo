@@ -31,6 +31,7 @@ public class DemoService extends Service {
 
     public void test() {
 //        just for test
+        
     }
 
     @Nullable
